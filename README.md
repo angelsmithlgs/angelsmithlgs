@@ -1,5 +1,4 @@
-## oh sorry wrong link
-visit this : https://github.com/vngerus
+## oh sorry wrong link visit this : https://github.com/vngerus
 
 <!--
 **angelsmithlgs/angelsmithlgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
